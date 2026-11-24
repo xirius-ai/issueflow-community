@@ -1,0 +1,30 @@
+title: "[Q] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Discussions are public. **Never paste passwords, tokens, API keys or private code.** For account, billing or private-repository problems, use *Report a problem* in the portal instead.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: What are you trying to do, and what happened?
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: What you tried
+      description: Steps, configuration snippets (with secrets removed), or the stage and outcome you saw.
+  - type: dropdown
+    id: framework
+    attributes:
+      label: Agent framework
+      options:
+        - Claude Code
+        - Cursor Agent
+        - Copilot CLI
+        - OpenCode
+        - Gemini CLI
+        - Script / process stage
+        - Not relevant
