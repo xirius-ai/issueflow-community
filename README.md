@@ -18,7 +18,7 @@ Search before you post: someone may have asked already.
 
 - **Documentation:** <https://portal.issueflow.cloud/docs>, public, with no sign-in.
 - **Your chat agent:** connect `https://api.issueflow.cloud/mcp` to Claude, ChatGPT, VS Code or any MCP client and ask it.
-- **Private problems:** use *Report a problem* in the portal, or email info@xirius.com. Anything involving your account, billing or private repositories belongs there, not here.
+- **Private problems:** email info@xirius.com. Anything involving your account, billing or private repositories belongs there, not here.
 
 ## Before you post
 

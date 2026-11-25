@@ -3,7 +3,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Discussions are public. **Never paste passwords, tokens, API keys or private code.** For account, billing or private-repository problems, use *Report a problem* in the portal instead.
+        Discussions are public. **Never paste passwords, tokens, API keys or private code.** For account, billing or private-repository problems, email info@xirius.com instead.
   - type: textarea
     id: question
     attributes:
